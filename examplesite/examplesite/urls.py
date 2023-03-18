@@ -24,3 +24,5 @@ urlpatterns = [
 ]
 
 handler404 = pageNotFound
+
+
